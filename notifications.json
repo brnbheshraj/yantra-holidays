@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Welcome to Yantra Utility",
+    "message": "Experience the new dynamic features with real-time updates.",
+    "date": "2081-01-12"
+  },
+  {
+    "id": "2",
+    "title": "Holiday Updates Enabled",
+    "message": "Holidays are now fetched automatically from server.",
+    "date": "2081-01-15"
+  },
+  {
+    "id": "3",
+    "title": "Education Links Added",
+    "message": "New universities and result portals have been added.",
+    "date": "2081-01-18"
+  },
+  {
+    "id": "4",
+    "title": "Gov Services Updated",
+    "message": "Important government services links updated for easier access.",
+    "date": "2081-01-20"
+  },
+  {
+    "id": "5",
+    "title": "App Improvement",
+    "message": "Performance and loading speed have been improved.",
+    "date": "2081-01-22"
+  }
+]
