@@ -1,0 +1,63 @@
+{
+  "universities": [
+    {
+      "name": "Tribhuvan University",
+      "url": "https://tu.edu.np/"
+    },
+    {
+      "name": "Kathmandu University",
+      "url": "https://ku.edu.np/"
+    },
+    {
+      "name": "Pokhara University",
+      "url": "https://pu.edu.np/"
+    },
+    {
+      "name": "Purbanchal University",
+      "url": "https://puexam.edu.np/"
+    },
+    {
+      "name": "Nepal Open University",
+      "url": "https://nou.edu.np/"
+    },
+    {
+      "name": "Mid-West University",
+      "url": "https://mwu.edu.np/"
+    },
+    {
+      "name": "Far Western University",
+      "url": "https://fwu.edu.np/"
+    },
+    {
+      "name": "Agriculture and Forestry University",
+      "url": "https://afu.edu.np/"
+    }
+  ],
+
+  "quickLinks": [
+    {
+      "name": "SEE Results",
+      "url": "https://see.ntc.net.np/"
+    },
+    {
+      "name": "NEB Results",
+      "url": "https://neb.ntc.net.np/"
+    },
+    {
+      "name": "TU Result",
+      "url": "https://tuexam.edu.np/"
+    },
+    {
+      "name": "Scholarships",
+      "url": "https://moe.gov.np/"
+    },
+    {
+      "name": "CDC Curriculum",
+      "url": "https://cdc.gov.np/"
+    },
+    {
+      "name": "Education Ministry",
+      "url": "https://moe.gov.np/"
+    }
+  ]
+}
