@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Nagarik App",
+    "url": "https://www.nagarikapp.gov.np/",
+    "category": "General"
+  },
+  {
+    "name": "Department of Passport",
+    "url": "https://nepalpassport.gov.np/",
+    "category": "Passport"
+  },
+  {
+    "name": "Inland Revenue Department (PAN/Tax)",
+    "url": "https://ird.gov.np/",
+    "category": "Tax"
+  },
+  {
+    "name": "Department of Transport Management",
+    "url": "https://www.dotm.gov.np/",
+    "category": "Transport"
+  },
+  {
+    "name": "Public Service Commission (Lok Sewa)",
+    "url": "https://psc.gov.np/",
+    "category": "Jobs"
+  },
+  {
+    "name": "National ID Registration",
+    "url": "https://donidcr.gov.np/",
+    "category": "Citizenship"
+  },
+  {
+    "name": "Office of the Prime Minister",
+    "url": "https://opmcm.gov.np/",
+    "category": "Government"
+  },
+  {
+    "name": "Ministry of Education",
+    "url": "https://moe.gov.np/",
+    "category": "Education"
+  },
+  {
+    "name": "Nepal Police",
+    "url": "https://nepalpolice.gov.np/",
+    "category": "Security"
+  },
+  {
+    "name": "Department of Immigration",
+    "url": "https://www.immigration.gov.np/",
+    "category": "Immigration"
+  },
+  {
+    "name": "Election Commission Nepal",
+    "url": "https://election.gov.np/",
+    "category": "Election"
+  },
+  {
+    "name": "Social Security Fund",
+    "url": "https://ssf.gov.np/",
+    "category": "Social Security"
+  }
+]
