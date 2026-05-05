@@ -1,7 +1,7 @@
 [
   {
     "name": "Nagarik App",
-    "url": "https://www.nagarikapp.gov.np/",
+    "url": "https://web.nagarikapp.gov.np/citizen/login",
     "category": "General"
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "name": "Ministry of Education",
-    "url": "https://moe.gov.np/",
+    "url": "https://moest.gov.np/",
     "category": "Education"
   },
   {
